@@ -10,6 +10,7 @@ import Skills from "./components/Skills";
 import { Work } from "./components/Work";
 import LogoLoader from "./components/LogoLoader";
 import anime from "animejs";
+import Footer from "./components/Footer";
 
 function App() {
   const [isLoading, setLoading] = useState(true);
@@ -70,6 +71,7 @@ function App() {
             <Work />
             <Skills />
             <Projects />
+            <Footer />
           </div>
         </div>
       )}

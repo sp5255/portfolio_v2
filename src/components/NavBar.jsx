@@ -30,7 +30,9 @@ const NavBar = () => {
           </li>
         </ul>
       </div>
-      <button className="nav__contact primary-btn">Contact Me</button>
+      <a className="nav__contact " href="#footer">
+        Contact Me
+      </a>
     </nav>
   );
 };
