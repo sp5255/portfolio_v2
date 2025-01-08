@@ -18,7 +18,13 @@ const Home = () => {
               a Software Engineer with 2.5+ years of experience turning ideas
               into seamless, user-friendly digital experiences
             </p>
-            <button className="secondary-btn home__resume-btn">Resume</button>
+            <a
+              className="secondary-btn home__resume-btn"
+              href="./Sachin_pundir_resume_5.4.pdf"
+              download="Sachin_pundir_resume"
+            >
+              Resume
+            </a>
           </div>
           <Lottie
             loop

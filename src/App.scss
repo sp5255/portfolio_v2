@@ -239,7 +239,13 @@ body {
     }
   }
   &__resume-btn {
+    display: inline-block;
     margin-top: 2rem;
+    transition: transform 0.4s;
+    &:hover {
+      color: $primary-green;
+      transform: translateY(-2px);
+    }
   }
 }
 
