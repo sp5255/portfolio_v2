@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 // import Matter from "matter-js";
 
 // Load Matter.js plugins
-Matter.use("matter-attractors");
+// Matter.use("matter-attractors");
 
 const MatterCanvas = () => {
   const canvasRef = useRef(null);
