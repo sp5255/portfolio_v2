@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500">
+  <defs/>
+  <g>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 40 120 Q 200 120 30 0" stroke-miterlimit="10" stroke-width="3" stroke-dasharray=""/>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 40 100 L 40 120" stroke-miterlimit="10" stroke-width="3" stroke-dasharray=""/>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 130 30 Q -25 10 155 160" stroke-miterlimit="10" stroke-width="3" stroke-dasharray=""/>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers" d=" M 130 30 L 130 50" stroke-miterlimit="10" stroke-width="3" stroke-dasharray=""/>
+  </g>
+</svg>
